@@ -1,4 +1,4 @@
-<img src="https://github.com/aitdahmane/aitdahmane/master/emoji.png" align="right">
+<img src="https://github.com/aitdahmane/aitdahmane/blob/master/emoji.png" align="right">
 
 ### Hi there 👋
 I'm Ayoub Ait Dahmane, a Software engineer, passionate about open source and creating technical content. I also enjoy [Photographie](https://instagram.com/tswira.jpeg) 📸 .
