@@ -1,16 +1,15 @@
+<img src="https://github.com/aitdahmane/aitdahmane/master/emoji.png" align="right">
+
 ### Hi there 👋
+I'm Ayoub Ait Dahmane, a Software engineer, passionate about open source and creating technical content. I also enjoy [Photographie](https://instagram.com/tswira.jpeg) 📸 .
 
-<!--
-**aitdahmane/aitdahmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love Java and Go , and I've been working mostly on .NET Microservices. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- 
+Here's some projects I'm excited about right now:
+
+- [Minicli](https://github.com/minicli/minicli) - A minimalist framework for command-line centric PHP apps.
+- [Streamaru](https://github.com/erikaheidi/streamaru) - An experimental collection of tools for live streaming with OBS.
+--> 
