@@ -1,7 +1,5 @@
-<h2>Hi 👋 I'm Ayoub ! 
+<h2>Hi 👋 I'm Ayoub ! Software Engineer </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer </p>
-
 ![Twitter Follow](https://img.shields.io/twitter/follow/aitdahmane_?label=Follow)
 [![Linkedin: Ayoub](https://img.shields.io/badge/-Ayoub-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aitdahmane/)](https://www.linkedin.com/in/aitdahmane/)
 ![GitHub followers](https://img.shields.io/github/followers/aitdahmane?label=Follow&style=social)
