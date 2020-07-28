@@ -17,7 +17,7 @@ const ayoub = {
             css: ["bootstrap"]
         },
         backEnd: {
-            js: [".NET", "Spring"],
+            Langages: [".NET", "Spring"],
         },
         devOps: [ "Docker🐳", "Travis Ci", "Nginx"],
         databases: ["mongo", "MySql", "SqlServer"],
