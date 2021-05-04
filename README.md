@@ -1,7 +1,8 @@
 ### Hi there, I'm Ayoub 👋
 
-[![Website](https://img.shields.io/website?label=aitdahmane.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://aitdahmane.me)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=aitdahmane_)
+![Twitter Follow](https://img.shields.io/twitter/follow/aitdahmane_?label=Follow)
+[![Linkedin: Ayoub](https://img.shields.io/badge/-Ayoub-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aitdahmane/)](https://www.linkedin.com/in/aitdahmane/)
+![GitHub followers](https://img.shields.io/github/followers/aitdahmane?label=Follow&style=social)
 
 ## I'm a software engineer !!
 
