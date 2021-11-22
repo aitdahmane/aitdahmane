@@ -2,8 +2,8 @@
   <h1 align="center"><b>Hi there, I'm Ayoub 🤓 </h1>
 </p>
 <p align="center">
-<a href="https://aitdahmane.me/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
-<a href="https://twitter.com/aitdahmane"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://aitdahmane.com/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4 alt="Portfolio" /></a>&nbsp;
+<a href="https://twitter.com/aitdahmane_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
 
 </p>
 <br />
