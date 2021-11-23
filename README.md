@@ -8,7 +8,7 @@
 </p>
 <br />
 
-<p>Enthusiastic Software Engineer since 2020 using JS, and Java Spring Boot. Scrum & Agile inspired.</p>
+<p>I am a back-end engineer with experience in creating web and mobile sites and applications. I am specialized in Java and have professional experience working with C# and Angular and Flutter. </p>
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>
