@@ -42,7 +42,7 @@
 Timezone: Morocco/Rabat (GMT)
 </p>
 <br />
-<p>In my latest project, I created an <a href="https://github.com/YuriDevAT/sos-animals">SOS Animal App</a> which will help abandoned animals get help from Animal welfare organizations in Romania when people reporting them via this app. I created this project to participate in my first hackathon - Clerk x Hashnode Hackathon July 2021. 🏆 This project was one of the Runner Up Winners. 🥳</p>
+  <p>In my latest project <a href="https://github.com/aitdahmane/restaurants-near-me-api">restaurants-near-me-api</a>, I created an API which will help people to find near restaurent using Google Maps API. 🥳</p>
 
 
 <br />
