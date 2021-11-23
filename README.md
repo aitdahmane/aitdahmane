@@ -42,9 +42,9 @@
 Timezone: Morocco/Rabat (GMT)
 </p>
 <br />
-  <p>In my latest project <a href="https://github.com/aitdahmane/restaurants-near-me-api">restaurants-near-me-api</a>, I created an API which will help people to find near restaurent using Google Maps API. 🥳</p>
+  <p>In my latest project <a href="https://github.com/aitdahmane/restaurants-near-me-api">Restaurants Near Me</a>, I created an API which will help people to find near restaurent depending on distance and budget , this project use Oauth to secure the application and <a href="https://developers.google.com/maps?hl=fr">Google Maps API</a> 🥳</p>
 
-
+  
 <br />
 <br />
 <p>
@@ -66,7 +66,6 @@ Timezone: Morocco/Rabat (GMT)
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Nikki - Online Journal App](https://yuridevat.hashnode.dev/nikki-online-journal-app)
-- [SOS Animals App. A project for the Clerk x Hashnode Hackathon](https://yuridevat.hashnode.dev/sos-animals-hackathon-project)
-- [2 ways to overcome deployment problems with React on Netlify](https://dev.to/yuridevat/2-ways-to-overcome-deployment-problems-with-react-on-netlify-4l5p)
+- [Don't be a full stack Developer](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
+- [Why Web3.0 is the future](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
 <!-- BLOG-POST-LIST:END -->
