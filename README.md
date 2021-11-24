@@ -69,4 +69,6 @@ Timezone: Morocco/Rabat (GMT)
 - [Don't be a full stack Developer](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
 - [Why Web3.0 is the future](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
 - [Episode 1 | Introduction of Restaurent Near Me API](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
+- [Episode 2 | Designing System of Restaurent Near Me API](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
+
 <!-- BLOG-POST-LIST:END -->
