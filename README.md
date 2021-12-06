@@ -17,17 +17,16 @@
 <p align="center">
   <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
   <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://github.com/aitdahmane/dahmanicoder.github.io">
-</a>
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
+<img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight"/>
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
 </a>
   </br>
   </br>
   <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
   <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
- <a href="https://github.com/aitdahmane/dahmanicoder.github.io">
+ <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
 </a>
-  <a href="https://github.com/YuriDevAT/smart-shopping-list">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YuriDevAT&repo=smart-shopping-list&theme=tokyonight" />
 </a>
 </p>
 
