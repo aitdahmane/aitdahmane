@@ -62,6 +62,5 @@ Timezone: Morocco/Rabat (GMT)
 
 <!-- BLOG-POST-LIST:START -->
 - [Don't be a full stack Developer](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
-- [Episode 1 | Introduction of Restaurent Near Me API](https://blog.aitdahmane.com/posts/episode1-introduction-restaurent-near-me/)
-
+ 
 <!-- BLOG-POST-LIST:END -->
