@@ -8,7 +8,7 @@
 </p>
 <br />
 
-<p>I am a back-end engineer with experience in creating web and mobile sites and applications. I am specialized in Java and have professional experience working with C# and Angular and Flutter. </p>
+<p>I am a software engineer with experience in creating web and mobile sites and applications. I am specialized in Java and have professional experience working with C# and Angular and Flutter. </p>
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>
