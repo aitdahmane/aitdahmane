@@ -58,6 +58,7 @@ Timezone: Morocco/Rabat (GMT)
 
 <!-- BLOG-POST-LIST:START -->
 - [Don't be a full stack Developer](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
+- [What you should know about Data Structures](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
 - [Other articles ... ](https://blog.aitdahmane.com/)
 
  
