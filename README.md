@@ -15,13 +15,18 @@
 <br />
 
 <p align="center">
+  <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
+   <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=short-path-algorithm&theme=tokyonight" />
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=short-path-algorithm&theme=tokyonight" />
 </a>
   </br>
   </br>
+    <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
+    <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=short-path-algorithm&theme=tokyonight" />
 </a>
+    
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=short-path-algorithm&theme=tokyonight" />
 </a>
 </p>
