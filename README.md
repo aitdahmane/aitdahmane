@@ -22,10 +22,8 @@
   </br>
   </br>
 
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=short-path-algorithm&theme=tokyonight" />
 </a>
     
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=short-path-algorithm&theme=tokyonight" />
 </a>
 </p>
 
