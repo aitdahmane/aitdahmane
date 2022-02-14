@@ -36,7 +36,7 @@
 Timezone: Morocco/Rabat (GMT)
 </p>
 <br />
-  <p>In my latest project <a href="https://github.com/aitdahmane/restaurants-near-me-api">Restaurants Near Me</a>, I created an API which will help people to find near restaurent depending on distance and budget , this project use Oauth to secure the application and <a href="https://developers.google.com/maps?hl=fr">Google Maps API</a> 🥳</p>
+  <p>In my latest project <a href="https://github.com/aitdahmane/restaurants-near-me-api">Insurance Agency </a>, I created an Spring Boot Application which will help inssurance agency to manage client , this project is created using Spring Boot and Angular</a> 🥳</p>
 
   
 <br />
