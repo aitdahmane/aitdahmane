@@ -61,7 +61,6 @@ Timezone: Morocco/Rabat (GMT)
 
 <!-- BLOG-POST-LIST:START -->
 - [Don't be a full stack Developer](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
-- [Books that every software engineer should read](https://blog.aitdahmane.com/posts/software-engineer-books/)
 - [Other articles ... ](https://blog.aitdahmane.com/)
 
  
