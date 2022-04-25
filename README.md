@@ -17,9 +17,11 @@
 
 <p align="center">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=xAPI-elearning-project&theme=tokyonight" />
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=recruiter-system-tracker&theme=tokyonight" />
-
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=xAPI-elearning-project&theme=tokyonight" />
   </br>
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=xAPI-elearning-project&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=xAPI-elearning-project&theme=tokyonight" />
+
 
 </p>
 
