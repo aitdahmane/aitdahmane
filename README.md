@@ -19,6 +19,8 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=recruiter-system-tracker&theme=tokyonight" />
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=sukodu-solver&theme=tokyonight" />
   </br>
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=recruiter-system-tracker&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=sukodu-solver&theme=tokyonight" />
 </p>
 
 <br />
@@ -43,6 +45,7 @@ Timezone: Morocco/Rabat (GMT)
 <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <a href="https://SpringBoot.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="SpringBoot" width="40" height="40"/> </a>  
 <a href="https://www.travis-ci.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="Travis Ci" width="40" height="40"/> </a>
+  <a href="https://java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
 </p>
 <br />
 
@@ -52,6 +55,7 @@ Timezone: Morocco/Rabat (GMT)
 
 <!-- BLOG-POST-LIST:START -->
 - [Don't be a full stack Developer](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
+- [Java 17 New Features](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
 - [Other articles ... ](https://blog.aitdahmane.com/)
 
  
