@@ -46,8 +46,10 @@ Timezone: Morocco/Rabat (GMT)
 <a href="https://SpringBoot.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="SpringBoot" width="40" height="40"/> </a>  
 <a href="https://www.travis-ci.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="Travis Ci" width="40" height="40"/> </a>
   <a href="https://java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a>
+    <a href="https://java.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/> </a>
 </p>
 <br />
+
 
 ---
 
