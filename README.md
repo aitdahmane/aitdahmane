@@ -67,7 +67,7 @@ Timezone: Morocco/Rabat (GMT)
 <!-- BLOG-POST-LIST:START -->
 - [Don't be a full stack Developer](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
 - [Java 17 New Features](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
-- [EPisode 1 : Create a scalable microservices projects from scratch](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
+- [Episode 1 : Create a scalable microservices projects from scratch](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
 - [Other articles ... ](https://blog.aitdahmane.com/)
 
  
