@@ -17,7 +17,7 @@
 
 <p align="center">
 
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=recruiter-system-tracker&theme=tokyonight" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=recruiter-system&theme=tokyonight" />
    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=inssurance-agency&theme=tokyonight" />
   </br>
 
@@ -31,9 +31,9 @@ Timezone: Morocco/Rabat (GMT)
 </p>
 <br />
   <p>In my latest project <a href="https://github.com/aitdahmane/restaurants-near-me-api">Insurance Agency </a>, I created an Spring Boot Application which will help inssurance agency to manage client , this project is created using Spring Boot and Angular</a> 🥳</p>
-<p>:eyes: I’m currently learning ... everything I need to filling my gaps to become a better programmer.</p>
+<p>:eyes: I’m currently learning ... everything i need to become a better programmer.</p>
 <p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
-<p>:speech_balloon: Ask me about anything related to... my content. I am happy to help.</p>
+<p>:speech_balloon: Ask me about anything related to... my profile. I am happy to answer.</p>
 
 <br />
 <br />
