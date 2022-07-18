@@ -20,9 +20,7 @@
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=recruiter-system-tracker&theme=tokyonight" />
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=sukodu-solver&theme=tokyonight" />
   </br>
-    
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=recruiter-system-tracker&theme=tokyonight" />
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=aitdahmane&repo=sukodu-solver&theme=tokyonight" />
+
 </p>
 
 <br />
