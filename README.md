@@ -30,7 +30,7 @@
 Timezone: Morocco/Rabat (GMT)
 </p>
 <br />
-  <p>In my latest project <a href="https://github.com/aitdahmane/restaurants-near-me-api">Insurance Agency </a>, I created an Spring Boot Application which will help inssurance agency to manage client , this project is created using Spring Boot and Angular</a> 🥳</p>
+  <p>In my latest project <a href="https://github.com/aitdahmane/recruiter-system">Recuiter Tracker System </a>, I created an microservices Spring Boot Application which will help recruiter to manage application , and give candidats a better experience about job hunting </a> 🥳</p>
 <p>:eyes: I’m currently learning ... everything i need to become a better programmer.</p>
 <p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
 <p>:speech_balloon: Ask me about anything related to... my profile. I am happy to answer.</p>
