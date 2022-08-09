@@ -63,9 +63,9 @@ Timezone: Morocco/Rabat (GMT)
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Don't be a full stack Developer](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
-- [Java 17 New Features](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
-- [Episode 1 : Create a scalable microservices projects from scratch](https://blog.aitdahmane.com/posts/dont-be-fullstack/)
+- [Don't be a full stack Developer](https://blog.aitdahmane.com/posts/dont-be-full-stack-developer)
+- [5 Skills Every Java Developer should learn in 2022](https://blog.aitdahmane.com/posts/java-developer-skills)
+- [Why Do we need CQRS ?](https://blog.aitdahmane.com/posts/cqrs-and-event-sourcing)
 - [Other articles ... ](https://blog.aitdahmane.com/)
 
  
