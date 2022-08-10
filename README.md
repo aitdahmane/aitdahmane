@@ -41,7 +41,7 @@ Timezone: Morocco/Rabat (GMT)
 <br />
 <br />
 <p>
-<h2 align="center"> Languages and Tools</h2>
+<h2 align="center"> Languages and Tools 🛠</h2>
 </p>
 <br />
 <p align="center">
