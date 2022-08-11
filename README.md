@@ -14,10 +14,7 @@
 <p>:speech_balloon: Ask me about anything related to... my profile. I am happy to answer.</p>
 
 <br />
-<br />
-  
-<br />
-<br />
+
 <p>
 <h2 align="center"> Languages and Tools 🛠</h2>
 </p>
