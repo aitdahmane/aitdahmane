@@ -4,9 +4,10 @@
 <p align="center">
 <a href="https://aitdahmane.com/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4" alt="Portfolio" /></a>&nbsp;
 <a href="https://twitter.com/aitdahmane_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<br />
+<br />
 </p>
 <p>I am a software engineer with experience in creating web and mobile sites and applications. I am specialized in Java and have professional experience working with .NET and Angular. </p>
-<br />
   <p>In my latest <a href="https://github.com/aitdahmane/recruiter-system">project </a>, I work on a microservices Spring Boot Application which will help recruiter to manage application , and give candidats a better experience about job hunting. i'm also exploring Golang by creating a container manager.</a> 🥳</p>
 <br />
 <p>:eyes: I’m currently learning ... everything i need to become a better engineer.</p>
@@ -31,7 +32,9 @@
   </a>
 </p>
 <br />
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aitdahmane&theme=radical&show_icons=true" width="410"/>
+</p>
 
 ---
 
