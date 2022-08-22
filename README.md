@@ -9,7 +9,7 @@
 <br />
 <br />
 </p>
-<p>I am a software engineer with experience in creating web and mobile sites and applications. I am specialized in Java and have professional experience working with .NET and Angular. </p>
+<p>I am a software engineer with experience in creating web and mobile sites and applications. I am specialized in Java and have professional experience working with .NET and front end frameworks . </p>
   <p>In my latest <a href="https://github.com/aitdahmane/recruiter-system">project</a>, I work on a microservices Spring Boot Application which will help recruiter to manage application , and give candidats a better experience about job hunting. i'm also exploring Golang by creating a <a href="https://github.com/aitdahmane/go-container">container manager</a>.</a> 🥳</p>
 <br />
 <p>:eyes: I’m currently learning ... everything i need to become a better engineer.</p>
