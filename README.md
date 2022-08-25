@@ -46,6 +46,7 @@
 - [Don't be a full stack Developer](https://blog.aitdahmane.com/posts/dont-be-full-stack-developer)
 - [5 Skills Every Java Developer should learn in 2022](https://blog.aitdahmane.com/posts/java-developer-skills)
 - [Why Do we need CQRS ?](https://blog.aitdahmane.com/posts/cqrs-and-event-sourcing)
+- [How to get from junior to senior Developer ?](https://blog.aitdahmane.com/posts/junior-to-senior-developer)
 - [Other articles ... ](https://blog.aitdahmane.com/)
 
  
