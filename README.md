@@ -10,7 +10,7 @@
 <br />
 </p>
 <p>I am a software engineer with experience in creating web and mobile sites and applications. I am specialized in Java and have professional experience working with .NET and front end frameworks . </p>
-  <p>In my latest <a href="https://github.com/aitdahmane/recruiter-system">project</a>, I work on a Spring Boot Full Stack Application which will help people to find touristique places application. i'm also exploring Golang by creating a <a href="https://github.com/aitdahmane/go-container">container manager</a>.</a> 🥳</p>
+  <p>In my latest <a href="https://github.com/aitdahmane/recruiter-system">project</a>, I work on a Spring Boot Full Stack Application which will help people to find touristique places application, contact me for more details. i'm also exploring Golang by creating a <a href="https://github.com/aitdahmane/go-container">container manager</a>.</a> 🥳</p>
 <br />
 <p>:eyes: I’m currently learning ... everything i need to become a better engineer.</p>
 <p>:raising_hand: I’m looking to collaborate with ... Open source.</p>
