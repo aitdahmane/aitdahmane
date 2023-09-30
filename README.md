@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi there, I'm Ayoub 🤓 </h1>
+  <h1 align="center"><b>Hi there, I'm Ayoub </h1>
 </p>
 <p align="center">
 <a href="https://linkedin.com/in/aitdahmane"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter" /></a>&nbsp;
@@ -37,17 +37,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=aitdahmane&theme=radical&show_icons=true" width="410"/>
 </p>
-
----
-
-📕 **Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-- [Don't be a full stack Developer](https://blog.aitdahmane.com/posts/dont-be-full-stack-developer)
-- [5 Skills Every Java Developer should learn in 2022](https://blog.aitdahmane.com/posts/java-developer-skills)
-- [Why Do we need CQRS ?](https://blog.aitdahmane.com/posts/cqrs-and-event-sourcing)
-- [How to get from junior to senior Developer ?](https://blog.aitdahmane.com/posts/junior-to-senior-developer)
-- [Other articles ... ](https://blog.aitdahmane.com/)
-
- 
-<!-- BLOG-POST-LIST:END -->
